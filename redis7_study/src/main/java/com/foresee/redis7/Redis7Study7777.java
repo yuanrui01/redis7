@@ -9,7 +9,7 @@ import tk.mybatis.spring.annotation.MapperScan;
  * @create 2022-12-10 23:39
  */
 @SpringBootApplication
-//@MapperScan("com.atguigu.redis7.mapper") //import tk.mybatis.spring.annotation.MapperScan;
+//@MapperScan("com.foresee.redis7.mapper") //import tk.mybatis.spring.annotation.MapperScan;
 public class Redis7Study7777
 {
     public static void main(String[] args)
